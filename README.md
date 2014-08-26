@@ -6,5 +6,7 @@
 <p>If applying one of the themes isn't needed apply the <code>Full Width Page</code> theme and enter your content in the page editor.</p>
 <h4>Linking to Style or Images in the HTML</h4>
 <p>Here's an example of how to properly link to images or scripts</p>
-<code><link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/scss/font-awesome.css"></code>
-<code><img src="<?php echo get_template_directory_uri() ?>/images/logo.png"></code>
+```html
+<img src="<?php echo get_template_directory_uri() ?>/images/logo.png">
+<link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/scss/font-awesome.css">
+```
