@@ -1,6 +1,6 @@
 <h1>Important Notes</h1>
 <h4> Installation</h4>
-<p>Put this into the <code>wordpress/wp-content/themes directory</code></p>
+<p>Put this into the <code>wordpress/wp-content/themes </code>directory</p>
 <h4>Using the theme<h4>
 <p>To apply the individual page templates create a page in wordpress and use the 'Templates' dropdown to choose the desired page</p>
 <p>If applying one of the themes isn't needed apply the <code>Full Width Page</code> theme and enter your content in the page editor.</p>
